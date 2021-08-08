@@ -1,0 +1,22 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+.popupImage {
+	/*margin-left: auto;
+	margin-right: auto;*/
+	display: block;
+	width: 200px;
+}
